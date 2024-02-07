@@ -9,7 +9,7 @@ public class Main {
 
         JFrame frame = new JFrame("My Button Frame");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(400, 400);
+        frame.setSize(450, 450);
 
         JButton button = new JButton("Click me!");
 
